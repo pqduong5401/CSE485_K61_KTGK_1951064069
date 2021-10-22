@@ -12,7 +12,7 @@
   </head>
   <body>
   
-  <a href="add.php" class="btn btn-success"><i class="fas fa-user-plus"></i> Thêm người hiến máu</a>
+  <a href="add.php" class="btn btn-success"><i class="fas fa-user-plus"></i> Thêm bài thi</a>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
