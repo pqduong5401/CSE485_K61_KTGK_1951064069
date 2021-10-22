@@ -1,3 +1,4 @@
+<?php include 'header.php' ?>
 <main class="container">
         <h2>Sửa Đề Thi</h2>
         
@@ -62,3 +63,4 @@
             </div>
         </form>
     </main>
+    <?php include 'footer.php' ?>

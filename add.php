@@ -1,3 +1,4 @@
+<?php include 'header.php' ?>
 <main class="container">
         <h2>Thêm thông tin bài thi</h2>
         <form action="process-add.php" method="post">
@@ -60,3 +61,4 @@
             </div>
         </form>
     </main>
+    <?php include 'footer.php' ?>

@@ -1,3 +1,4 @@
+<?php include 'header.php' ?>
 <?php 
  $id = $_GET['id'];
  ?>
@@ -51,3 +52,4 @@
             ?>
   </tbody>
 </table>
+<?php include 'footer.php' ?>
