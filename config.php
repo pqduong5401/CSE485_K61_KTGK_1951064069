@@ -2,7 +2,7 @@
 define('HOST','localhost');
 define('USER','root');
 const PASS ='';
-const DB = 'bd_qlt';
+const DB = 'db_qlt';
 $conn =mysqli_connect(HOST,USER,PASS,DB);
 if(!$conn)
 {
