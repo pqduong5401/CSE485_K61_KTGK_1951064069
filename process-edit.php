@@ -19,7 +19,7 @@
     if($result > 0){
         header("Location:index.php");
     }else{
-        echo "Lỗi!";
+        echo "Location:error.php";
     }
 
     //Bước 04: Đóng kết nối
