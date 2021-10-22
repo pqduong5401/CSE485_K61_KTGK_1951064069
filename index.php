@@ -31,8 +31,10 @@
       <th scope="col">Ngày tạo bài thi</th>
       <th scope="col">Trạng Thái</th>
       <th scope="col">Mã Truy Cập </th>
+      <th scope="col">Xem Chi Tiết</th>
       <th scope="col">Sửa thông tin</th>
       <th scope="col">Xóa thông tin</th>
+      
     </tr>
   </thead>
   <tbody>
