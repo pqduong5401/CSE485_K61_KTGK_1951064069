@@ -10,7 +10,7 @@
             <div class="form-group row">
                 <label for="exam_datetime" class="col-sm-2 col-form-label">Ngày thi</label>
                 <div class="col-sm-10">
-                <input type="text" class="form-control" id="exam_datetime" name="exam_datetime">
+                <input type="Date" class="form-control" id="exam_datetime" name="exam_datetime">
                 </div>
             </div>
             <div class="form-group row">
@@ -28,7 +28,7 @@
             <div class="form-group row">
                 <label for="marks_per_right_answer" class="col-sm-2 col-form-label">Điểm cho mỗi câu trả lời đúng</label>
                 <div class="col-sm-10">
-                <input type="date" class="form-control" id="marks_per_right_answer" name="marks_per_right_answer">
+                <input type="tel" class="form-control" id="marks_per_right_answer" name="marks_per_right_answer">
                 </div>
             </div>
             <div class="form-group row">
