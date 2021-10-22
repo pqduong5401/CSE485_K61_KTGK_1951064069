@@ -60,9 +60,9 @@
                         <td><?php echo $row['created_on']; ?></td>
                         <td><?php echo $row['status']; ?></td>
                         <td><?php echo $row['exam_code']; ?></td>
-                        <td><a href="all.php?id= <?php echo $row['bd_id']; ?>"><i class="fas fa-user-times btn btn-success"></i></a></td>
-                        <td><a href="edit.php?id= <?php echo $row['bd_id']; ?>"><i class="fas fa-user-edit btn btn-success"></i></a></td>
-                        <td><a href="delete.php?id= <?php echo $row['bd_id']; ?>"><i class="fas fa-user-times btn btn-success"></i></a></td>
+                        <td><a href="all.php?id= <?php echo $row['id']; ?>"><i class="fas fa-user-times btn btn-success"></i></a></td>
+                        <td><a href="edit.php?id= <?php echo $row['id']; ?>"><i class="fas fa-user-edit btn btn-success"></i></a></td>
+                        <td><a href="delete.php?id= <?php echo $row['id']; ?>"><i class="fas fa-user-times btn btn-success"></i></a></td>
                     </tr>
             <?php
                 }
